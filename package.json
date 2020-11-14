@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "name": "vue-element-admin-press",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GGupzHH/vue-element-admin-press.git",
+  "author": "GGupzHH <1248023357@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
