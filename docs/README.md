@@ -9,6 +9,6 @@ features:
 - title: 写啥
   details: 写啥写啥写啥写啥写啥写啥写啥写啥
 - title: 持续更新
-  details: ShineWing-Digital 前端组件持续更新
-footer: MIT Licensed | Copyright © 2018 Shinewing Digital. All Rights Reserved 邮箱：digital@shinewing.com
+  details: 前端组件持续更新
+footer: MIT Licensed | Copyright © 2018 
 ---
