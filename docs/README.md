@@ -1,14 +1,14 @@
 ---
 home: true
-heroImage: /favicon.ico
+# heroImage: /home.png
 actionText: Get Started →
-actionLink: /pages/blog/
+actionLink: /pages/case/
 features:
-- title: 博文
-  details: 学习谨记三条：找准知识体系、刻意练习、及时反馈
-- title: 摘要
-  details: 你必须做别人不愿做的事，好让你明天可以拥有别人不能拥有的东西
-- title: 读书
-  details: 读书是门槛最低的高贵。
-footer: MIT Licensed | Copyright © 2018-present Lin He
+- title: 快速
+  details: 能够快速搭建起一个企业中后台产品原型
+- title: 写啥
+  details: 写啥写啥写啥写啥写啥写啥写啥写啥
+- title: 持续更新
+  details: ShineWing-Digital 前端组件持续更新
+footer: MIT Licensed | Copyright © 2018 Shinewing Digital. All Rights Reserved 邮箱：digital@shinewing.com
 ---
