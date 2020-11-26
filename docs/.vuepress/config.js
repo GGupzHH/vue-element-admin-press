@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/vue-element-admin-press/',
   // 页面标题
   title: 'Vue-Element-admin',
   // 网页描述
