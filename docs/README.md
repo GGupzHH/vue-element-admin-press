@@ -1,14 +1,16 @@
 ---
 home: true
-# heroImage: /home.png
-actionText: Get Started →
-actionLink: /pages/case/
+lang: zh-CN
+heroText: Vue-Element-admin
+heroImage: /logo.jpg
+actionText: 开始 →
+actionLink: /interview/
 features:
-- title: 快速
-  details: 能够快速搭建起一个企业中后台产品原型
-- title: 写啥
-  details: 写啥写啥写啥写啥写啥写啥写啥写啥
-- title: 持续更新
-  details: 前端组件持续更新
-footer: MIT Licensed | Copyright © 2018 
+- title: A Blog
+  details: 专注写作前端博客，记录日常所得。
+- title: For Me
+  details: 说啥你说啥 你说说啥就说啥 你说啥  说啥  你别说 说啥就是傻
+- title: For Interview
+  details: ღ( ´･ᴗ･` )
+footer: Copyright © 2020-present GGupzHH
 ---
