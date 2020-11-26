@@ -1,3 +1,14 @@
-docs/.vuepress/dist
+docs/images
+docs/pages
+docs/README.md
+
+docs/.vuepress/components
+docs/.vuepress/js
+docs/.vuepress/public
+docs/.vuepress/config.js
+docs/.vuepress/style.styl
+
 node_modules
-package-lock.json
+package.json
+README.md
+yarn.lock
