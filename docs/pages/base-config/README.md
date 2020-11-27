@@ -1,12 +1,12 @@
 ---
 prev: false
-next: /pages/common/next1.md
+next: /pages/base-config/next1.md
 ---
 # 基础配置功能
 
 ## 自动生成目录
-  - 目录生成
-    [[toc]]
+  <!-- - 目录生成
+    [[toc]] -->
   - 跳转 
   
     [HOME](/)
