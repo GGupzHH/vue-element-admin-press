@@ -3,14 +3,14 @@ home: true
 lang: zh-CN
 heroText: Vue-Element-admin
 heroImage: /logo.jpg
-actionText: 开始 →
-actionLink: /interview/
+actionText: GET STARTED
+actionLink: /pages/interview/
 features:
-- title: A Blog
-  details: 专注写作前端博客，记录日常所得。
+- title: A Document
+  details: 基于 Vue 和 Element UI，能够快速搭建起一个企业中后台产品原型。
 - title: For Me
-  details: 说啥你说啥 你说说啥就说啥 你说啥  说啥  你别说 说啥就是傻
+  details: 🚲 🚲 🚲 🚲 🚲 🚲  🚗 🚗 🚗 🚗 🚗  🚒🚒🚒🚒🚒🚒🚒🚒
 - title: For Interview
   details: ღ( ´･ᴗ･` )
-footer: Copyright © 2020-present GGupzHH
+footer: Copyright © 2020-present GGupzHH、Wisdom
 ---
