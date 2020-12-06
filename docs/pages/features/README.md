@@ -23,7 +23,7 @@ function routeInfo(context, folder) {
 }
 
 export default {
-  name: "blogDir",
+  name: "VueElementAdminDocument",
   data () {
     return {
       componentsRouterInfo: routeInfo(componentsContext, 'components'),
