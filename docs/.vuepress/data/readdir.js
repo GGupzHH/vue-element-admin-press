@@ -33,7 +33,6 @@ function curry(fn, args) {
   }
 }
 
-const readAbstract = curry(fslist)(path.resolve(__dirname, '../pages/abstract'))
 const readFeatures = curry(fslist)(path.resolve(__dirname, '../../pages/features'))
 
 function sideBarFunc(arr, fn) {
@@ -50,17 +49,11 @@ const featuresArr = [
   { title: 'Components', folder: 'components' },
   { title: 'Utils', folder: 'utils' },
   { title: 'Visual', folder: 'visual' },
-  { title: 'Base', folder: 'Base' },
-]
-const abstractArr = [
-  { title: '代码摘要', folder: 'code' },
-  { title: '其他', folder: 'others' }
+  { title: 'Built-in', folder: 'built-in' },
 ]
 
 const featuresSideBar = sideBarFunc(featuresArr, readFeatures)
-// const abstractSideBar = sideBarFunc(abstractArr, readAbstract)
 
 module.exports = {
-  featuresSideBar,
-  // abstractSideBar
+  featuresSideBar
 }
