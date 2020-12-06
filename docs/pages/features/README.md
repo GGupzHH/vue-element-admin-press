@@ -12,7 +12,7 @@ const componentsContext = require.context( './components/', false, /.md$/)
 const utilsContext = require.context( './utils/', false, /.md$/)
 const visualContext = require.context( './visual/', false, /.md$/)
 const baseContext = require.context( './base/', false, /.md$/)
-
+  
 function routeInfo(context, folder) {
   const keys = context.keys()
   return keys.map(item => {

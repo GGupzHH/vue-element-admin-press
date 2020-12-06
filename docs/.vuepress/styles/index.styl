@@ -29,10 +29,20 @@ html, body
     }
     .links {
       background-color $navBgColor
-      color #ecf0f1
+      // color #ecf0f1
     }
     .nav-links a:hover, .nav-links a.router-link-active {
-      color #ecf0f1
+      color #fff
+    }
+    .nav-item > a:not(.external):hover, .nav-item > a:not(.external).router-link-active {
+      border-bottom: 2px solid #fff;
+    }
+    .arrow.down {
+      color: #fff;
+      border-top: 6px solid #fff;
+    }
+    .icon.outbound {
+      color: #fff;
     }
   }
   // ???
@@ -78,7 +88,7 @@ html, body
         border-color: $badgeTipColor;
       }
       &.warning {
-        border-color: $badgeWarningColor;
+        border-color: $badgeWarningColor; 
       }
       &.danger {
         border-color: $badgeErrorColor;  
