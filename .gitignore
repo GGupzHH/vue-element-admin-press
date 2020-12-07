@@ -11,5 +11,4 @@ docs/.vuepress/config.js
 docs/.vuepress/style.styl
 
 package.json
-README.md
 yarn.lock
