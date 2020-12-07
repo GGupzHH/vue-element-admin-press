@@ -2,8 +2,7 @@
 
 此仓库提供了一些常用的 VuePress配置案例
 
-### 首页
-![首页](https://ggupzhh.github.io/vue-element-admin-press/)
+### [首页](https://ggupzhh.github.io/vue-element-admin-press/)
 
 ## 目录
 ```js
