@@ -4,7 +4,7 @@ lang: zh-CN
 heroText: Vue-Element-admin
 heroImage: /logo.jpg
 actionText: GET STARTED
-actionLink: /pages/interview/
+actionLink: /pages/features/
 features:
 - title: A Document
   details: 基于 Vue 和 Element UI，能够快速搭建起一个企业中后台产品原型。
